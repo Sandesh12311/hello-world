@@ -6,3 +6,4 @@ pants
 mobile
 charger
 earphone
+laptop
